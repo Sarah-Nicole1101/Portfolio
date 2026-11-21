@@ -1,0 +1,16 @@
+Sarah Nicole Hular | Portfolio — Complete React/Vite Source Archive
+
+This is a complete, runnable React/Vite project packaged from the latest complete source archive accessible in this conversation (the 'react-animated' source export dated 2026-11-20).
+
+The About Me component has been updated to the exact five-sentence introduction requested on November 21, 2026.
+
+IMPORTANT: This source archive is from an EARLIER project snapshot, not a verified export of the latest live ChatGPT Sites project (https://sarah-nicole-portfolio.exact-carp-9038.chatgpt.site/). Changes made after this source export (including some later project/gallery and layout updates) may be missing from this ZIP. No live Site was edited or deployed while making this ZIP.
+
+Run locally:
+  npm ci
+  npm run dev
+
+Build for deployment:
+  npm run build
+
+Vercel configuration: Framework = Vite, Build Command = npm run build, Output Directory = dist.
